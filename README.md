@@ -1,4 +1,4 @@
-# 🎨 PASTEL TODO
+# 🎨 PASTEL TODO </>
 
 A beautiful, minimalist terminal-based todo list manager written in Rust with pastel color aesthetics.
 
